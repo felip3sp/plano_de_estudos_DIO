@@ -1,6 +1,6 @@
 # Plano de estudos referente ao bootcamp Potência Tech powered by iFood - Java Beginners da plataforma DIO
 
-O objetivo desse roadmap é atualizar as etapas do bootcamp conforme forem sendo concluídas.
+O objetivo deste roadmap é atualizar as etapas do bootcamp conforme forem sendo concluídas.
 
 ## Etapas
 
